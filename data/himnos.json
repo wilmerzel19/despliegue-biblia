@@ -1,0 +1,98 @@
+{
+  "himnos": [
+    {
+      "id": 1,
+      "numero": 1,
+      "titulo": "Alabanza al Creador",
+      "autor": "Tradicional / contenido de ejemplo",
+      "categoria": "Alabanza",
+      "estrofas": [
+        {
+          "numero": 1,
+          "texto": "Con gozo elevamos nuestra voz,\npara cantar al buen Creador;\nsu luz nos guía con gran amor,\ny en cada día damos loor."
+        },
+        {
+          "numero": 2,
+          "texto": "Cuando la noche llega al corazón,\nsu mano firme nos da dirección;\ncon esperanza seguimos en fe,\nconfiando siempre en su gran poder."
+        },
+        {
+          "numero": 3,
+          "texto": "Recibe ahora nuestra adoración,\nnuestro servicio y nuestro corazón;\nque nuestras vidas puedan reflejar\nel grande amor que nos quiso salvar."
+        }
+      ],
+      "estribillo": "Alabemos con alegría,\nproclamemos su gran bondad;\ncada día, cada hora,\nsu amor nos sostendrá."
+    },
+    {
+      "id": 2,
+      "numero": 2,
+      "titulo": "Camino de Fe",
+      "autor": "Contenido de ejemplo",
+      "categoria": "Fe",
+      "estrofas": [
+        {
+          "numero": 1,
+          "texto": "Aunque el camino parezca difícil,\nno temeremos al caminar;\nla fe nos lleva siempre adelante,\ny nos enseña a confiar."
+        },
+        {
+          "numero": 2,
+          "texto": "Cuando las dudas quieran detenernos,\nrecordaremos su fidelidad;\nlevantaremos nuestra mirada,\ny seguiremos con confianza."
+        }
+      ],
+      "estribillo": "Caminaremos siempre por fe,\nsin retroceder ni mirar atrás;\ncon esperanza y con confianza,\nseguiremos hasta el final."
+    },
+    {
+      "id": 3,
+      "numero": 3,
+      "titulo": "Luz en el Camino",
+      "autor": "Contenido de ejemplo",
+      "categoria": "Esperanza",
+      "estrofas": [
+        {
+          "numero": 1,
+          "texto": "Cuando no encuentre por dónde seguir,\nuna nueva luz me hará continuar;\nen medio de toda oscuridad,\nuna esperanza volverá a brillar."
+        },
+        {
+          "numero": 2,
+          "texto": "Cada mañana trae nueva oportunidad,\ncada jornada podemos comenzar;\ncon un corazón dispuesto a servir,\ncon amor podremos avanzar."
+        }
+      ],
+      "estribillo": "Eres la luz en mi camino,\nguía mis pasos al caminar;\ncuando tropiece, dame fuerzas,\ny ayúdame a continuar."
+    },
+    {
+      "id": 4,
+      "numero": 4,
+      "titulo": "Unidos en Amor",
+      "autor": "Contenido de ejemplo",
+      "categoria": "Unidad",
+      "estrofas": [
+        {
+          "numero": 1,
+          "texto": "Juntos caminamos buscando la paz,\nunidos servimos con sinceridad;\ncompartiendo esperanza y amistad,\ncon nuestras vidas damos testimonio."
+        },
+        {
+          "numero": 2,
+          "texto": "Si alguno tropieza, le ayudaremos,\nsi alguno llora, consolaremos;\ncon nuestras manos podremos servir,\ny con nuestro amor hacer sonreír."
+        }
+      ],
+      "estribillo": "Unidos en amor caminaremos,\nunidos con esperanza serviremos;\nuna familia queremos formar,\ny juntos adelante vamos a andar."
+    },
+    {
+      "id": 5,
+      "numero": 5,
+      "titulo": "Gracias por Este Día",
+      "autor": "Contenido de ejemplo",
+      "categoria": "Gratitud",
+      "estrofas": [
+        {
+          "numero": 1,
+          "texto": "Gracias por este nuevo día,\ngracias por la oportunidad;\npor cada paso y cada momento,\npor tu cuidado y tu bondad."
+        },
+        {
+          "numero": 2,
+          "texto": "Gracias por cada nueva mañana,\ngracias por poder comenzar;\nque nuestras obras y nuestras palabras\npuedan tu amor manifestar."
+        }
+      ],
+      "estribillo": "Gracias, gracias por tu bondad,\ngracias por tu fidelidad;\ncon alegría hoy cantaremos,\ny con gratitud te serviremos."
+    }
+  ]
+}
